@@ -9,3 +9,6 @@ https://progworks.tistory.com/10
   
 https://somlab.tistory.com/11  
 => 시각화  
+  
+https://gisutd.tistory.com/7  
+=> 시각화(등간격, 등분위, natural break 등 개념 설명)  
