@@ -27,3 +27,6 @@ https://www.biz-gis.com/index.php?mid=QnA&document_srl=218341
   
 https://gis.stackexchange.com/questions/123444/creating-fishnet-grid-shapefile-in-qgis  
 => 폴리곤에 대한 격자 grid 생성 방법  
+  
+https://gis.stackexchange.com/questions/138281/making-centroids-for-vector-grid-in-qgis  
+=> 격자grid 생성 후 centroid 추출  
