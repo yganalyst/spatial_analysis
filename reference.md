@@ -30,3 +30,14 @@ https://gis.stackexchange.com/questions/123444/creating-fishnet-grid-shapefile-i
   
 https://gis.stackexchange.com/questions/138281/making-centroids-for-vector-grid-in-qgis  
 => 격자grid 생성 후 centroid 추출  
+  
+https://gis.stackexchange.com/questions/27739/filling-column-with-consecutive-numbers-in-qgis  
+=> field calculator에 row 번호 컬럼 추가하는 법( id만들떄)  
+  
+https://www.northrivergeographic.com/qgis-adding-x-y-coordinate  
+=> point 데이터의 좌표 필드 추가하는 방법  
+  
+http://jonathansoma.com/lede/foundations-2018/qgis/points-in-polygon/  
+=> 폴리곤 내부에 있는 포인트 개수 새기  
+
+
