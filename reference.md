@@ -40,4 +40,7 @@ https://www.northrivergeographic.com/qgis-adding-x-y-coordinate
 http://jonathansoma.com/lede/foundations-2018/qgis/points-in-polygon/  
 => 폴리곤 내부에 있는 포인트 개수 새기  
 
+https://www.osgeo.kr/17  
+=> 좌표계 설명 자료  
+
 
