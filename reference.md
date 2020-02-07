@@ -49,4 +49,5 @@ https://progworks.tistory.com/75
 http://www.qgistutorials.com/ko/docs/3/origin_destination_matrix.html  
 => QGIS 네트워크 분석  
 
-
+http://blog.daum.net/geoscience/1442    
+=> QGIS service-area(iso-area)  
