@@ -46,4 +46,7 @@ https://www.osgeo.kr/17
 https://progworks.tistory.com/75   
 => dem raster image 데이터 시각화  
 
+http://www.qgistutorials.com/ko/docs/3/origin_destination_matrix.html  
+=> QGIS 네트워크 분석  
+
 
