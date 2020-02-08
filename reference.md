@@ -92,3 +92,7 @@ https://stackoverflow.com/questions/13062334/polygon-intersection-error-in-shape
 => 유효하지 않은 Polygon과 유효한 폴리곤  
 https://stackoverflow.com/questions/31391209/valueerror-no-shapely-geometry-can-be-created-from-null-value  
 => polygon 두개 union 할때, topology 에러 보완 (buffer를 이용한 보정)  
+
+### 기타  
+https://pythonhosted.org/planar/polygon.html  
+=> 도형 접선 그릴때 유용한(tangent) planar 라이브러리  
