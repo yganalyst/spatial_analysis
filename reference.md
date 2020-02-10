@@ -104,6 +104,8 @@ https://m.blog.naver.com/PostView.nhn?blogId=tobsysco&logNo=90189688655&proxyRef
 => 각도 구하기(tan 수학 이론 설명)  
 https://assortrock.com/7  
 => tan 삼각함수공식 (알아야 이해가능)  
+https://www.youtube.com/watch?v=Vs263mWhXFg  
+=> raster 파일 merge, QGIS 툴 사용할 수도 있고, command에서 할수도 있고(2가지 방법)  
 
 
 ### 기타  
