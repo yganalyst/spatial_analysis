@@ -109,6 +109,8 @@ https://assortrock.com/7
 => tan 삼각함수공식 (알아야 이해가능)  
 https://www.youtube.com/watch?v=Vs263mWhXFg  
 => raster 파일 merge, QGIS 툴 사용할 수도 있고, command에서 할수도 있고(2가지 방법)  
+http://geologyandpython.com/dem-processing.html  
+=> python dem파일을 이용한 지형분석  
 
 
 ### 기타  
