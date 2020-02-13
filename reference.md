@@ -38,7 +38,8 @@ http://blog.daum.net/geoscience/1442
 => QGIS service-area(iso-area)  
 https://gis.stackexchange.com/questions/227246/convert-huge-xyz-csv-to-geotiff  
 => DEM파일 xyz(txt)파일로 변환  
-
+https://gis.stackexchange.com/questions/313724/grass-not-working-with-qgis-3-6/313726   
+=> QGIS GRASS모듈 안열리는 오류  
 
 ---
 
