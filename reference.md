@@ -116,7 +116,8 @@ http://geologyandpython.com/dem-processing.html
 => python dem파일을 이용한 지형분석  
 http://andrewgaidus.com/Shapely_Geometries_Topological_Rules/  
 => python으로 도로망 데이터 전처리하기(topology check)  
-
+https://shapely.readthedocs.io/en/latest/manual.html  
+=> shapely docs   
 
 ### 기타  
 https://pythonhosted.org/planar/polygon.html  
