@@ -114,6 +114,8 @@ https://www.youtube.com/watch?v=Vs263mWhXFg
 => raster 파일 merge, QGIS 툴 사용할 수도 있고, command에서 할수도 있고(2가지 방법)  
 http://geologyandpython.com/dem-processing.html  
 => python dem파일을 이용한 지형분석  
+http://andrewgaidus.com/Shapely_Geometries_Topological_Rules/  
+=> python으로 도로망 데이터 전처리하기(topology check)  
 
 
 ### 기타  
