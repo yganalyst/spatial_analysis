@@ -36,6 +36,12 @@ http://www.qgistutorials.com/ko/docs/3/origin_destination_matrix.html
 => QGIS 네트워크 분석  
 http://blog.daum.net/geoscience/1442    
 => QGIS service-area(iso-area)  
+https://gis.stackexchange.com/questions/227246/convert-huge-xyz-csv-to-geotiff  
+=> DEM파일 xyz(txt)파일로 변환  
+https://gis.stackexchange.com/questions/313724/grass-not-working-with-qgis-3-6/313726   
+=> QGIS GRASS모듈 안열리는 오류  
+https://www.geodose.com/2017/10/how-to-clean-topology-error-in-qgis.html  
+-> topology 에러 처리  
 
 ---
 
@@ -104,7 +110,14 @@ https://m.blog.naver.com/PostView.nhn?blogId=tobsysco&logNo=90189688655&proxyRef
 => 각도 구하기(tan 수학 이론 설명)  
 https://assortrock.com/7  
 => tan 삼각함수공식 (알아야 이해가능)  
-
+https://www.youtube.com/watch?v=Vs263mWhXFg  
+=> raster 파일 merge, QGIS 툴 사용할 수도 있고, command에서 할수도 있고(2가지 방법)  
+http://geologyandpython.com/dem-processing.html  
+=> python dem파일을 이용한 지형분석  
+http://andrewgaidus.com/Shapely_Geometries_Topological_Rules/  
+=> python으로 도로망 데이터 전처리하기(topology check)  
+https://shapely.readthedocs.io/en/latest/manual.html  
+=> shapely docs   
 
 ### 기타  
 https://pythonhosted.org/planar/polygon.html  
