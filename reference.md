@@ -42,6 +42,9 @@ https://gis.stackexchange.com/questions/313724/grass-not-working-with-qgis-3-6/3
 => QGIS GRASS모듈 안열리는 오류  
 https://www.geodose.com/2017/10/how-to-clean-topology-error-in-qgis.html  
 -> topology 에러 처리  
+https://www.azavea.com/blog/2015/12/21/tools-for-getting-data-out-of-openstreetmap-and-into-desktop-gis/   
+=> OSM 데이터 QGIS에서 불러오기  
+
 
 ---
 
