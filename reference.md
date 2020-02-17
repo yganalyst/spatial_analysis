@@ -125,7 +125,8 @@ https://automating-gis-processes.github.io/2017/lessons/L7/network-analysis.html
 => Geo-Python org, networkx, osm, open street map 등  
 https://gis.stackexchange.com/questions/120286/removing-small-polygon-gaps-in-shapely-polygon  
 => Polygon 틈생긴거 buffer로 보정하기  
-
+https://shapely.readthedocs.io/en/stable/manual.html#object.buffer  
+=> shapely buffer 옵션( 모퉁이 설정 등)  
 
 
 ### 기타  
