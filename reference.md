@@ -121,6 +121,10 @@ http://andrewgaidus.com/Shapely_Geometries_Topological_Rules/
 => python으로 도로망 데이터 전처리하기(topology check)  
 https://shapely.readthedocs.io/en/latest/manual.html  
 => shapely docs   
+https://automating-gis-processes.github.io/2017/lessons/L7/network-analysis.html  
+=> Geo-Python org, networkx, osm, open street map 등  
+
+
 
 ### 기타  
 https://pythonhosted.org/planar/polygon.html  
