@@ -44,7 +44,8 @@ https://www.geodose.com/2017/10/how-to-clean-topology-error-in-qgis.html
 -> topology 에러 처리  
 https://www.azavea.com/blog/2015/12/21/tools-for-getting-data-out-of-openstreetmap-and-into-desktop-gis/   
 => OSM 데이터 QGIS에서 불러오기  
-
+https://www.youtube.com/watch?v=EerXfUf-aHo   
+=> QGIS에서 등고선,표고점으로 Raster만들기  
 
 ---
 
