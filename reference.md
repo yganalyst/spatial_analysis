@@ -46,6 +46,8 @@ https://www.azavea.com/blog/2015/12/21/tools-for-getting-data-out-of-openstreetm
 => OSM 데이터 QGIS에서 불러오기  
 https://www.youtube.com/watch?v=EerXfUf-aHo   
 => QGIS에서 등고선,표고점으로 Raster만들기  
+https://www.youtube.com/watch?v=eyl8rt-vqlI   
+=> QGIS 3D view 설정 방식  
 
 ---
 
