@@ -131,6 +131,13 @@ https://gis.stackexchange.com/questions/120286/removing-small-polygon-gaps-in-sh
 https://shapely.readthedocs.io/en/stable/manual.html#object.buffer  
 => shapely buffer 옵션( 모퉁이 설정 등)  
 
+### folium  
+https://oboki.net/workspace/programming/language/python/folium-%EC%A7%80%EB%A6%AC%EC%A0%95%EB%B3%B4-%EC%8B%9C%EA%B0%81%ED%99%94/  
+https://pinkwink.kr/971  
+=> folium 기초  
+
+
+
 
 ### 기타  
 https://pythonhosted.org/planar/polygon.html  
