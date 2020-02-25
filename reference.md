@@ -136,6 +136,8 @@ https://datascienceschool.net/view-notebook/ef921dc25e01437b9b5c532ba3b89b02/
 https://stackoverflow.com/questions/38899190/geopandas-label-polygons  
 https://stackoverflow.com/questions/36162414/bold-annotated-text-in-matplotlib  
 => plt.annotate, polygon에 라벨 표시 및 bold, fontsize  
+https://kite.com/python/answers/how-to-reverse-a-colormap-using-matplotlib-in-python  
+=> cmap reverse 하기  
 
 
 
