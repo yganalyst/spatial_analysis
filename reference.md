@@ -132,7 +132,9 @@ https://shapely.readthedocs.io/en/stable/manual.html#object.buffer
 => shapely buffer 옵션( 모퉁이 설정 등)  
 https://stackoverflow.com/questions/56690524/matplotlib-geopandas-plot-chloropleth-with-set-bins-for-colorscheme  
 https://datascienceschool.net/view-notebook/ef921dc25e01437b9b5c532ba3b89b02/  
-=> Geopandas plot, symbology 범주 급간 조정하기
+=> Geopandas plot, symbology 범주 급간 조정하기  
+https://stackoverflow.com/questions/38899190/geopandas-label-polygons  
+=> plt.annotate, polygon에 라벨 표시하기  
 
 
 
