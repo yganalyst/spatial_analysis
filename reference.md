@@ -130,6 +130,11 @@ https://gis.stackexchange.com/questions/120286/removing-small-polygon-gaps-in-sh
 => Polygon 틈생긴거 buffer로 보정하기  
 https://shapely.readthedocs.io/en/stable/manual.html#object.buffer  
 => shapely buffer 옵션( 모퉁이 설정 등)  
+https://stackoverflow.com/questions/56690524/matplotlib-geopandas-plot-chloropleth-with-set-bins-for-colorscheme  
+https://datascienceschool.net/view-notebook/ef921dc25e01437b9b5c532ba3b89b02/  
+=> Geopandas plot, symbology 범주 급간 조정하기
+
+
 
 ### folium  
 https://oboki.net/workspace/programming/language/python/folium-%EC%A7%80%EB%A6%AC%EC%A0%95%EB%B3%B4-%EC%8B%9C%EA%B0%81%ED%99%94/  
