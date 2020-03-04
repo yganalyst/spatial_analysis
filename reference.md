@@ -138,7 +138,8 @@ https://stackoverflow.com/questions/36162414/bold-annotated-text-in-matplotlib
 => plt.annotate, polygon에 라벨 표시 및 bold, fontsize  
 https://kite.com/python/answers/how-to-reverse-a-colormap-using-matplotlib-in-python  
 => cmap reverse 하기  
-
+http://blog.thehumangeo.com/2014/05/12/drawing-boundaries-in-python/  
+=> convex & concave hull 알고리즘 직접 구현  
 
 
 ### folium  
