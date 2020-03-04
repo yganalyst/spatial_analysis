@@ -139,6 +139,7 @@ https://stackoverflow.com/questions/36162414/bold-annotated-text-in-matplotlib
 https://kite.com/python/answers/how-to-reverse-a-colormap-using-matplotlib-in-python  
 => cmap reverse 하기  
 http://blog.thehumangeo.com/2014/05/12/drawing-boundaries-in-python/  
+https://gis.stackexchange.com/questions/247085/concave-hull-by-attribute-type-solution  
 => convex & concave hull 알고리즘 직접 구현  
 
 
