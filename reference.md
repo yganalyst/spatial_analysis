@@ -140,6 +140,7 @@ https://kite.com/python/answers/how-to-reverse-a-colormap-using-matplotlib-in-py
 => cmap reverse 하기  
 http://blog.thehumangeo.com/2014/05/12/drawing-boundaries-in-python/  
 https://gis.stackexchange.com/questions/247085/concave-hull-by-attribute-type-solution  
+https://gist.github.com/dwyerk/10561690  
 => convex & concave hull 알고리즘 직접 구현  
 
 
